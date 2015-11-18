@@ -14,6 +14,10 @@ Write a tool that determines whether or not to scrub today's launch.
  - Python 3: `brew install python3`
  - Nose test runner: `pip3 install nose`
 
+## Get Started
+
+Run the tests with `nosetests`. See [tests/launch_scrubber_test.py]() to get started.
+
 ## WeatherStation
 
 There is a `WeatherStation` object available that provides the following interface:
